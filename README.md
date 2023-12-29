@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kurniantoega/easybank-landing-page](https://github.com/kurniantoega/easybank-landing-page)
+- Live Site URL: [https://kurniantoega.github.io/easybank-landing-page/](https://kurniantoega.github.io/easybank-landing-page/)
 
 ## My process
 
@@ -42,6 +42,8 @@ Users should be able to:
 - Javascript
 
 ### What I learned
+
+Hamburger Menu
 
 ```html
 <div class="hamburger">
